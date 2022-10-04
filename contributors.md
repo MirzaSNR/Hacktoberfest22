@@ -15,3 +15,11 @@
 - Bio: Front-end Developer
 
 - GitHub: [CeeKay](https://github.com/CeeKayTech)
+
+#### Name: [MIRZA SNR](https://github.com/MirzaSNR)
+
+- Place: Central Java, Indonesia
+
+- Bio: Mobile Developer
+
+- GitHub: [MirzaSNR](https://github.com/MirzaSNR)
